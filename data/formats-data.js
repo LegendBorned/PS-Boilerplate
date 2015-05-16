@@ -4798,7 +4798,7 @@ exports.BattleFormatsData = {
 			{"generation":5,"level":100,"shiny":true,"nature":"Hasty","moves":["extremespeed","technoblast","blazekick","shiftgear"],"pokeball":"cherishball"}
 		],
 		dreamWorldPokeball: 'cherishball',
-		tier: "Uber"
+		tier: "OU"
 	},
 	genesectburn: {
 		randomBattleMoves: ["uturn","bugbuzz","icebeam","technoblast","thunderbolt","ironhead","shiftgear","extremespeed"],
@@ -5238,7 +5238,7 @@ exports.BattleFormatsData = {
 		isUnreleased: true,
 		randomBattleMoves: ["nastyplot","psyshock","darkpulse","focusblast","hyperspacefury","zenheadbutt","icepunch","drainpunch","knockoff","trick"],
 		randomDoubleBattleMoves: ["psychic","darkpulse","focusblast","protect","hyperspacefury","zenheadbutt","icepunch","drainpunch"],
-		tier: "Unreleased"
+		tier: "Ubers"
 	},
 	volcanion: {
 		isUnreleased: true,
