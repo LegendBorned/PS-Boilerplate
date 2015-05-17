@@ -5238,7 +5238,7 @@ exports.BattleFormatsData = {
 		isUnreleased: true,
 		randomBattleMoves: ["nastyplot","psyshock","darkpulse","focusblast","hyperspacefury","zenheadbutt","icepunch","drainpunch","knockoff","trick"],
 		randomDoubleBattleMoves: ["psychic","darkpulse","focusblast","protect","hyperspacefury","zenheadbutt","icepunch","drainpunch"],
-		tier: "Ubers"
+		tier: "Unreleased"
 	},
 	volcanion: {
 		isUnreleased: true,
