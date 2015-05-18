@@ -30,10 +30,16 @@ exports.Formats = [
 		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Mawilite', 'Salamencite']
 	},
 	{
+		name: "OU (Custom)",
+		section: "ORAS Singles",
+
+		ruleset: ['PotD', 'Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod', 'Cancel Mod']
+		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Mawilite', 'Salamencite']
+	},
 		name: "Ubers",
 		section: "ORAS Singles",
 
-		ruleset: ['Pokemon', 'Standard Ubers', 'Swagger Clause', 'Team Preview', 'Mega Rayquaza Ban Mod'],
+		ruleset: ['Pokemon', 'Standard Ubers', 'Swagger Clause', 'Team Preview'],
 		banlist: []
 	},
 	{
