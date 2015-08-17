@@ -6,7 +6,7 @@ exports.port = 8000;
 //   of strings. Each string should be either an IP address or a subnet given
 //   in CIDR notation. You should usually leave this as `false` unless you
 //   know what you are doing.
-exports.proxyip = 127.2.220.129
+exports.proxyip = 127.2.220.129;
 
 // Pokemon of the Day - put a pokemon's name here to make it Pokemon of the Day
 //   The PotD will always be in the #2 slot (not #1 so it won't be a lead)
@@ -258,7 +258,7 @@ exports.groups = {
 		joinbattle: true,
 		rank: 4
 	},
-	'@': {
+	'$': {
 		id: "mod",
 		name: "Moderator",
 		inherit: '%',
